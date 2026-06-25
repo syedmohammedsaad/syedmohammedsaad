@@ -1,19 +1,20 @@
-# Hi 👋, I'm Syed Mohammed Saad
+Hi 👋, I'm Syed Mohammed Saad
 
-## Data Analyst | Python | SQL | Power BI | Machine Learning
+**Data Analyst | Python | SQL | Power BI | Machine Learning**
+
+🎯 Seeking Data Analyst opportunities where I can apply Python, SQL, Power BI, Excel, and Machine Learning to solve real-world business problems.
 
 I am passionate about transforming raw data into meaningful insights through analytics, visualization, and machine learning.
-
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-- 🎓 Aspiring Data Analyst
-- 📊 Interested in Business Intelligence & Machine Learning
-- 🌱 Currently learning Advanced Data Analytics
-- 💡 Passionate about solving real-world business problems
-- 📍 India
-
+- 📊 Data Analyst with skills in Python, SQL, Power BI, Excel, and Machine Learning.
+- 📈 Passionate about transforming raw data into meaningful business insights through data analysis and visualization.
+- 💼 Built end-to-end data analytics projects involving data cleaning, exploratory data analysis (EDA), SQL analysis, Excel dashboards, and Power BI dashboards.
+- 🌱 Currently learning Advanced Data Analytics and Machine Learning techniques.
+- 🎯 Seeking Data Analyst opportunities to solve real-world business problems using data-driven solutions.
+- 📍 Based in India.
 ---
 
 ## 🛠 Skills
